@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.TETE{
+    background-color: #d35649 ;
+    display: flex;
+    align-items: center;
+    
+}
+p{
+    color: white;
+}
+.TOP{
+    display: flex;
+    text-decoration: none;
+}
+.lien-tete{
+    text-decoration: none;
+}
+.ICON{
+    justify-content: right;
+    display: flex;
+    width: 40%;
+
+    
+}
+
+.ICON a{
+    margin: 8%;
+    text-decoration: none;
+}
+
+.ICON a div{
+    display: flex;
+    margin: 8%;
+}
+
+.ICON img {
+    width: 100%;
+    margin: 0 2%;
+   
+}
+
+.TOP p{
+    margin-left: 30px;
+}
+.TETE p{
+    margin: 2%;
+}
+.fond{
+    height: 350px;
+     background-image: url(fond.jpg);
+      background-size: cover;
+     background-position: center;
+} 
+.CENTER  {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.342);
+    width: 50%;
+    margin: auto;
+    height: 100PX;
+}
+.ranger{
+    display: flex;
+}
+h4{
+    font-weight: 100;
+    margin: 3%;
+    color:black;
+}
+.footer{
+     justify-content: center;
+     justify-items: center;
+     text-align: center;
+  
+}
+
+.footer div{
+    margin: 1% 2%;
+}
+.DIV1{
+    gap: 15PX;
+    
+}
+.CENTRE{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+     border-radius: 50%;
+     width: 10%;
+     height: 100px;
+     transform: translate(0, -40% );
+}
+.CENTRE img{
+    justify-items: center;
+    
+    
+    justify-self: center;
+    justify-tracks: center;
+}
+.DIV2{
+    gap: 15PX;
+}
+.footer1{
+    display: flex;
+    
+}
+.telo{
+    width: 33%;
+    text-align: center;
+}
+.A4{
+    width: 95%;
+     box-shadow: 0 0 15px black;
+     margin: 40px auto;
+
+}
+.tableau{
+ display: flex;
+ margin: 2%;
+
+}
+.contenue{
+    color: black;
+    text-align: center;
+    padding: 6% 2% ;
+}
+.cage{
+     box-shadow: 0 0 3px;
+     width: 29vh;
+     width: 50ch;
+     margin: 3%;
+
+}
+.SISINY{
+    transform: translate(300PX);
+}
+.MANGA{
+    color:#509bd7;
+    font-weight: 900;
+}
+.f{
+    color: black;
+}
+.t{
+    align-items: center;
+    display: flex;
+    margin: 8%;
+}
+.o{
+    width: 30%;
+}
+.P{
+    color: black;
+}
+.a div{
+    margin: -10px;
+}
+.PHOTO{
+    width:max-content;
+    background-color: #d35649;
+    margin: 2%;
+}
+.PHOTO img{
+    width: 100%;
+}
